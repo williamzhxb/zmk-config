@@ -68,13 +68,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-3fb71f896836.js"></script>
   
 
-  <title>zmk/naked60.keymap at main · zmkfirmware/zmk</title>
+  <title>zmk/Kconfig.defconfig at main · zmkfirmware/zmk</title>
 
 
 
     
 
-  <meta name="request-id" content="D302:9A80:749E5D:AA57D1:63B4C91B" data-turbo-transient="true" /><meta name="html-safe-nonce" content="cb4fa3c851d776808241c1f6ccbc79cba53a185761fc586e29a548dbf27d1184" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS96bWtmaXJtd2FyZS96bWsvdHJlZS9tYWluL2FwcC9ib2FyZHMvc2hpZWxkcy9uYWtlZDYwIiwicmVxdWVzdF9pZCI6IkQzMDI6OUE4MDo3NDlFNUQ6QUE1N0QxOjYzQjRDOTFCIiwidmlzaXRvcl9pZCI6IjgzNDk0MDc4OTk1Nzg4NTA2NzAiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="d6890cfa13358eaf343141a969995eaf0c8225513f7e07ad1de0d1790a779dd1" data-turbo-transient="true" />
+  <meta name="request-id" content="D302:9A80:7496B6:AA4D16:63B4C8ED" data-turbo-transient="true" /><meta name="html-safe-nonce" content="cb4fa3c851d776808241c1f6ccbc79cba53a185761fc586e29a548dbf27d1184" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS96bWtmaXJtd2FyZS96bWsvdHJlZS9tYWluL2FwcC9ib2FyZHMvc2hpZWxkcy9uYWtlZDYwIiwicmVxdWVzdF9pZCI6IkQzMDI6OUE4MDo3NDk2QjY6QUE0RDE2OjYzQjRDOEVEIiwidmlzaXRvcl9pZCI6IjgzNDk0MDc4OTk1Nzg4NTA2NzAiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="f096c5a842844e9e9630bd0225415e4b85c9d36c4d3f7b1e4995d1ea20fd03e2" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:270692521" data-turbo-transient>
@@ -113,11 +113,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f970b86ad2c2477a7abe15f59f954c1e19951909d1210bd559fecf97c6aa8e1e/zmkfirmware/zmk" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="zmk/naked60.keymap at main · zmkfirmware/zmk" /><meta name="twitter:description" content="ZMK Firmware Repository. Contribute to zmkfirmware/zmk development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/f970b86ad2c2477a7abe15f59f954c1e19951909d1210bd559fecf97c6aa8e1e/zmkfirmware/zmk" /><meta property="og:image:alt" content="ZMK Firmware Repository. Contribute to zmkfirmware/zmk development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="zmk/naked60.keymap at main · zmkfirmware/zmk" /><meta property="og:url" content="https://github.com/zmkfirmware/zmk" /><meta property="og:description" content="ZMK Firmware Repository. Contribute to zmkfirmware/zmk development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f970b86ad2c2477a7abe15f59f954c1e19951909d1210bd559fecf97c6aa8e1e/zmkfirmware/zmk" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="zmk/Kconfig.defconfig at main · zmkfirmware/zmk" /><meta name="twitter:description" content="ZMK Firmware Repository. Contribute to zmkfirmware/zmk development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/f970b86ad2c2477a7abe15f59f954c1e19951909d1210bd559fecf97c6aa8e1e/zmkfirmware/zmk" /><meta property="og:image:alt" content="ZMK Firmware Repository. Contribute to zmkfirmware/zmk development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="zmk/Kconfig.defconfig at main · zmkfirmware/zmk" /><meta property="og:url" content="https://github.com/zmkfirmware/zmk" /><meta property="og:description" content="ZMK Firmware Repository. Contribute to zmkfirmware/zmk development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/11304231/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTMwNDIzMSwicyI6MTAyMzc3Mzg3MiwiYyI6MTgxNDI0ODY5MiwidCI6MTY3Mjc5MjM0OX0=--f5ebf43d735e9c4d2aa736714a12107e50e8224a42719ab15f06d6da780eb18f" data-refresh-url="/_alive" data-session-id="6c5c09c2eb744f06c6a1ffdcff2b009542d74c57fd09f40e28145fc6dcaa33d6">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/11304231/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTMwNDIzMSwicyI6MTAyMzc3Mzg3MiwiYyI6MzE1MTgyMDM3MywidCI6MTY3Mjc5MjM0M30=--da58628b33e1252c05eb6e976fa235d007dab61efde5fe98509594f08c6259e0" data-refresh-url="/_alive" data-session-id="6c5c09c2eb744f06c6a1ffdcff2b009542d74c57fd09f40e28145fc6dcaa33d6">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="TjaEmoVUEEJg_H8pgUo8vuaHtXg5cfgB2RLHGeso2KgM1ZLhM9YBDWuzFqBlqOY6M3Kv744TUQDYgS-PjUChgA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="MIF8TcP6N6zHgpVAK091R_NvTbPvgYBUoP8jjfoRh2xyYmo2dXgm48zN_MnPra_DJppXJFjjKVWhbMsbnHn-RA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;williamzhxb&quot;,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="e26a9d771c4549331393f0d65474bc4aecbca50e740e03243b75c11549be7488" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;williamzhxb&quot;,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="d9e29954acdaf4a4a2312af5e65c4ab795f6568303b0c02042082927f6768880" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/11304231?s=40&amp;v=4" width="20" height="20" alt="@williamzhxb" />
       williamzhxb
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cTbUYeYfCs_5uqURfM4rvpnbYgAzWPaw07Zr9iyBSXqExSEe5BW4GUT8_oou_MJ5kI_FLGr9DcrF-ZspMF5YRg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JcvxPxxe4Q-tbnTnCyh0baxU_0UF-kFj36UQfTr7g2XQOARAHlRT2RAoL3xZGp2qpQBYaVxfuhnJ6uCiJiSSWQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzMDQyMzEiLCJ0IjoxNjcyNzkyMzQ5fQ==--1c5f8b2c0d6670aa8faf259ca7df9816501ed601943bc40191d5036a4353183c" data-indicator-mode="global" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzMDQyMzEiLCJ0IjoxNjcyNzkyMzQzfQ==--634d90f74d36a2471b73709700d6b40a54340b8f77ab046d6d170961768f73c6" data-indicator-mode="global" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -640,7 +640,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap
+      return-to=/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig
       user-id="11304231"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1613,7 +1613,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="9e8f09fd07569d2f7e8a6bbfc0ad089384da76245a702723b2070952fa7656fa" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="1de1e523c7fbc07c610f0ad58057a8b1379bae4f3f42bd1d4c30fafb827fa492" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1665,7 +1665,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eiLbXqfMzg4oGyo8-H8TXIpguxIhJHhmOSDxjufiylXLjNscNNbEngI6QPseklydoTog8iCP0009ke4Mmz0JZA" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HmKIh-CCDBc77QTqx62b0uu9cGvVMWWVvGzhSTViPsyvzIjFc5gGhxHMbi0hQNQTwOfri9Sazr643f7LSb39_Q" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="270692521">
 
@@ -1793,7 +1793,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lGLYVTSsxCnik3IQ5DWhsjqwdTJm7ZT7fbrOUeiFSa0lzNgXp7bOuciyGNcC2O5zEeru0mdGP9B5C9HTlFqKnA" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BHgGJH0hr3_1Z61N3jfSO7mOkYHNpzQ8wGswJ3nDRlm11gZm7jul799Gx4o42p36ktQKYcwMnxfE2i-lBRyFaA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="270692521">
 
@@ -1944,7 +1944,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/zmkfirmware/zmk/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="04b72e717a330573f17202951f4f4db6ef864e8b3c2c4e1c7d689625f579f502" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of zmkfirmware/zmk" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/zmkfirmware/zmk/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="f49e6807ed4d23d3aef4876b79d4b4ed6f87f2e6a66f99c2b9d4e559d2534c14" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of zmkfirmware/zmk" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="1,392" data-view-component="true" class="Counter">1.4k</span>
@@ -1962,13 +1962,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3fe16c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a79254">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-3fe16c"
+        id="filter-menu-a79254"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2010,10 +2010,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/zmkfirmware/zmk/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CXoAEn_UKvobDG1IUsfh4JptfTrAji8UUZ5jgLXcvYh5aL6RQkuj1QsH6-miM1ByNkXnnIRQeEErH-EKP7tB7Q" autocomplete="off" />
-          <input type="hidden" value="IO0KCq8cUJtqy1oqP_U92x4ZxoL6626nPfl6PvsWGhpQ_7SJkoPZtHrA3IvPAYxJsjFcJL41OfJHePi0cXHmfw" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/zmkfirmware/zmk/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3X2JFenWqNXAarjOWjlGQb_Bxs8AtCD2kkGVYmeqSNStbzeW1Ekh-tBhPm-qzffTE-lcaURqd6PowBfo7c20sQ" autocomplete="off" />
+          <input type="hidden" value="gFb80h3MnAqo2Nva8oNZDQf5VWeCq25qG5qlPKOS6LjwREJRIFMVJbjTXXsCd-ifq9HPwcZ1OT9hGye2KfUU3Q" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="9318960c003bbe859d864ad248570a24306e64d79696ce4d6408bb29a870fa3c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1331)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="8b191d1992d4c8352aa45df2308c8abef2d2c2807c6be89fbe34158604af4667" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1331)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2031,13 +2031,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c0d8f1">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b24ab2">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-c0d8f1"
+        id="filter-menu-b24ab2"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2058,9 +2058,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/zmkfirmware/zmk/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="echxHpzpsL3J2IO6myIQ1CiwheXaUdI7NIGBPY6O9zats8BqDoqOmNIGj4nOkvjZdUMIPu7RYNJmQKw9jEnG8w" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/zmkfirmware/zmk/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2Q25R7-0xQaacB2wl9ZluOWUj9P3BgmFtYXyllz_sjMNdggzLdf7I4GuEYPCZo21uGcCCMOGu2znRN-WXjiD9g" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="d38f3ce40b501eb7252d9b7334fe999d61c05dd9710fd9f97d2ac870c3c7472f" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1331)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="fcd1092ab8ea121b0f1a3661468361f1ef5e4d8d6a98f909cb043819d344f97b" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1331)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2078,13 +2078,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c0d8f1">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b24ab2">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-c0d8f1"
+        id="filter-menu-b24ab2"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2271,7 +2271,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/zmkfirmware/zmk/blob/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/naked60.keymap">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/zmkfirmware/zmk/blob/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/Kconfig.defconfig">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2279,7 +2279,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="e58b7d413256b8b7b6efa4679d4031a555631517dc26ab3fc0ff548ac57a50d9">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="93cd0609b00982fa40371facc3d2afd398dd777401c341a71df0e6a91047633c">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2360,7 +2360,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/zmkfirmware/zmk/blob/{{ urlEncodedRefName }}/app/boards/shields/naked60/naked60.keymap" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/zmkfirmware/zmk/blob/{{ urlEncodedRefName }}/app/boards/shields/naked60/Kconfig.defconfig" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2402,7 +2402,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/zmkfirmware/zmk/blob/{{ urlEncodedRefName }}/app/boards/shields/naked60/naked60.keymap" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/zmkfirmware/zmk/blob/{{ urlEncodedRefName }}/app/boards/shields/naked60/Kconfig.defconfig" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2463,7 +2463,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk"><span>zmk</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app"><span>app</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app/boards"><span>boards</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app/boards/shields"><span>shields</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app/boards/shields/naked60"><span>naked60</span></a></span><span class="separator">/</span><strong class="final-path">naked60.keymap</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk"><span>zmk</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app"><span>app</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app/boards"><span>boards</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app/boards/shields"><span>shields</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/zmkfirmware/zmk/tree/main/app/boards/shields/naked60"><span>naked60</span></a></span><span class="separator">/</span><strong class="final-path">Kconfig.defconfig</strong>
   </h2>
     <a href="/zmkfirmware/zmk/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2474,7 +2474,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="0a1732aba2cc0c006056da50faa6a887b26f0c3dda70dc6d08baf869def167fe" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/zmkfirmware/zmk/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="0a3c2721ce9ac63a18ecac886350015151ca4a3837c3ad92ac4873a1bf94dc00" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/zmkfirmware/zmk/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2486,13 +2486,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="app/boards/shields/naked60/naked60.keymap" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="app/boards/shields/naked60/Kconfig.defconfig" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/zmkfirmware/zmk/blob/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/naked60.keymap" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/zmkfirmware/zmk/blob/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/Kconfig.defconfig" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2524,80 +2524,17 @@
     <include-fragment src="/zmkfirmware/zmk/spoofed_commit_check/c23443a086b62833ba0b88dd3a271993d3bc9cea" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/xiushak/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/xiushak"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/30637265?s=48&amp;v=4" width="24" height="24" alt="@xiushak" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/xiushak/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/xiushak">xiushak</a>
+  <include-fragment src="/zmkfirmware/zmk/contributors/main/app/boards/shields/naked60/Kconfig.defconfig" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="feat(shields): Add Naked60BMP shield" class="Link--secondary" href="/zmkfirmware/zmk/commit/3b8244e4662c4f01f049c0d6ee1e2fa1c2de3779">feat(shields): Add Naked60BMP shield</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/zmkfirmware/zmk/commit/3b8244e4662c4f01f049c0d6ee1e2fa1c2de3779/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/zmkfirmware/zmk/commit/3b8244e4662c4f01f049c0d6ee1e2fa1c2de3779" data-pjax>3b8244e</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-10-04T03:23:54Z" class="no-wrap">Oct 3, 2021</relative-time></span>
-          </span>
-
-          <a data-pjax href="/zmkfirmware/zmk/commits/main/app/boards/shields/naked60/naked60.keymap" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/zmkfirmware/zmk/contributors-list/main/app/boards/shields/naked60/naked60.keymap" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2620,25 +2557,25 @@
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
-      <include-fragment src="/zmkfirmware/zmk/codeowners-badge/main/app/boards/shields/naked60/naked60.keymap"></include-fragment>
+      <include-fragment src="/zmkfirmware/zmk/codeowners-badge/main/app/boards/shields/naked60/Kconfig.defconfig"></include-fragment>
 
-      99 lines (89 sloc)
+      9 lines (6 sloc)
       <span class="file-info-divider"></span>
-    7.92 KB
+    149 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/zmkfirmware/zmk/raw/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/naked60.keymap" href="/zmkfirmware/zmk/raw/main/app/boards/shields/naked60/naked60.keymap" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/zmkfirmware/zmk/blame/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/naked60.keymap" href="/zmkfirmware/zmk/blame/main/app/boards/shields/naked60/naked60.keymap" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/zmkfirmware/zmk/raw/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/Kconfig.defconfig" href="/zmkfirmware/zmk/raw/main/app/boards/shields/naked60/Kconfig.defconfig" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/zmkfirmware/zmk/blame/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/Kconfig.defconfig" href="/zmkfirmware/zmk/blame/main/app/boards/shields/naked60/Kconfig.defconfig" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/zmkfirmware/zmk/edit/main/app/boards/shields/naked60/naked60.keymap" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2V56StXP2rZkltTjUHVL37qVCzDgFuGbo7XQpF2Y3caUh7U_nHsKIYjwHSFGftfQjybr3WzBb_BkERwONypjog" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/zmkfirmware/zmk/edit/main/app/boards/shields/naked60/Kconfig.defconfig" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_xj7eKVFN2wXdb5N99RtyXcTOLEQwHYQuVHmyV0R-6bia9xz3y9rX_eJ7RnlkhgbXwTImsdTHBHgrDqKv-sGrA" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2648,7 +2585,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/zmkfirmware/zmk/edit/main/app/boards/shields/naked60/naked60.keymap" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gccQ2WA4Xc27TEoFXkEwatuCMFvQDSAbO8wSHOfqE-LMHt-sKYyNWlcqg8dISqxl7jHQtlzarnD8aN62jVithg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/zmkfirmware/zmk/edit/main/app/boards/shields/naked60/Kconfig.defconfig" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xd3Do6OatGtyiu0VC8WHhdcZBGWH5YIt1UsTFV2FZpFAruSo2fDoWJJ2vkEZg_JX_w70TlB26CyMts9Wv3-bmw" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2656,7 +2593,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/zmkfirmware/zmk?branch=main&amp;filepath=app%2Fboards%2Fshields%2Fnaked60%2Fnaked60.keymap" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/zmkfirmware/zmk?branch=main&amp;filepath=app%2Fboards%2Fshields%2Fnaked60%2FKconfig.defconfig" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2667,10 +2604,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/zmkfirmware/zmk/raw/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/naked60.keymap" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/zmkfirmware/zmk/raw/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/Kconfig.defconfig" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="698e0dffc340a3e95893b996b33c5b367263356386bbb7b1d7d76fb59fe2ac40" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="aab991e5911b1a61e00cc9580a91822420eb6c88ebd7298071abb29ee56b3430" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2695,7 +2632,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/zmkfirmware/zmk/delete/main/app/boards/shields/naked60/naked60.keymap" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cSaSJEMidsewjw0oW7CSqZ9WxRLz_2pps4DBPNI8koey_54htXkdvSqc0X2neS45Na26QOLZozXutPIY0D3M1Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/zmkfirmware/zmk/delete/main/app/boards/shields/naked60/Kconfig.defconfig" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6hosUINdnpQ8ZVUDTVzBP3ViDP64IlmckfjKD3rzm1-KFEq0VFEMM9p-E1HeY-Bok1iRrCqgNaF7wTKh0jAjmQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2723,20 +2660,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/zmkfirmware/zmk?branch=main&amp;filepath=app%2Fboards%2Fshields%2Fnaked60%2Fnaked60.keymap">
+                   href="x-github-client://openRepo/https://github.com/zmkfirmware/zmk?branch=main&amp;filepath=app%2Fboards%2Fshields%2Fnaked60%2FKconfig.defconfig">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/zmkfirmware/zmk/raw/main/app/boards/shields/naked60/naked60.keymap">
+            <a class="dropdown-item" href="/zmkfirmware/zmk/raw/main/app/boards/shields/naked60/Kconfig.defconfig">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/zmkfirmware/zmk/raw/main/app/boards/shields/naked60/naked60.keymap" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/zmkfirmware/zmk/raw/main/app/boards/shields/naked60/Kconfig.defconfig" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/naked60.keymap&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="698e0dffc340a3e95893b996b33c5b367263356386bbb7b1d7d76fb59fe2ac40">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:270692521,&quot;originating_url&quot;:&quot;https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/naked60/Kconfig.defconfig&quot;,&quot;user_id&quot;:11304231}}" data-hydro-click-hmac="aab991e5911b1a61e00cc9580a91822420eb6c88ebd7298071abb29ee56b3430">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2759,20 +2696,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/zmkfirmware/zmk/blame/main/app/boards/shields/naked60/naked60.keymap">
+              <a class="dropdown-item" href="/zmkfirmware/zmk/blame/main/app/boards/shields/naked60/Kconfig.defconfig">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/zmkfirmware/zmk/edit/main/app/boards/shields/naked60/naked60.keymap">Edit file</a>
+                <a class="dropdown-item" href="/zmkfirmware/zmk/edit/main/app/boards/shields/naked60/Kconfig.defconfig">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:270692521,&quot;actor_id&quot;:11304231,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/zmkfirmware/zmk/delete/main/app/boards/shields/naked60/naked60.keymap">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/zmkfirmware/zmk/delete/main/app/boards/shields/naked60/Kconfig.defconfig">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2809,412 +2746,45 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="app/boards/shields/naked60/naked60.keymap">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="app/boards/shields/naked60/Kconfig.defconfig">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">/*</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"># Copyright (c) 2020 The ZMK Contributors</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"> * Copyright (c) 2020 The ZMK Contributors</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"># SPDX-License-Identifier: MIT</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"> *</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"> * SPDX-License-Identifier: MIT</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">if SHIELD_NAKED60</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"> */</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">config ZMK_KEYBOARD_NAME</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">#include &lt;behaviors.dtsi&gt;</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    default &quot;Naked60BMP&quot;</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">#include &lt;dt-bindings/zmk/keys.h&gt;</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">#include &lt;dt-bindings/zmk/bt.h&gt;</td>
-        </tr>
-        <tr>
-          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">#include &lt;dt-bindings/zmk/outputs.h&gt;</td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">/ {</td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    keymap {</td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">        compatible = &quot;zmk,keymap&quot;;</td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">        default_layer {</td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">            // ----------------------------------------------------------------------------------------------------------</td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">            // |  ESC  |  1   |  2   |  3   |  4   |  5   |-------|-------|   6   |  7    |  8   |  9   |   0   | BSPC  |</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">            // |  TAB  |  Q   |  W   |  E   |  R   |  T   |-------|-------|   Y   |  U    |  I   |  O   |   P   |  \    |</td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">            // | SHIFT |  A   |  S   |  D   |  F   |  G   |-------|-------|   H   |  J    |  K   |  L   |   ;   |  &#39;    |</td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">            // | CTRL  |  Z   |  X   |  C   |  V   |  B   |-------|-------|   N   |  M    |  ,   |  .   |   /   | ENTER |</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">            // |-------|ADJUST| LCTL | LALT | LGUI | LOWR | SPACE | SPACE |  RAIS | LARW | DARW | UARW  | RARW  |-------|</td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">            bindings = &lt;</td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">                &amp;kp ESC    &amp;kp N1 &amp;kp N2    &amp;kp N3   &amp;kp N4   &amp;kp N5                    &amp;kp N6 &amp;kp N7   &amp;kp N8    &amp;kp N9  &amp;kp N0    &amp;kp BSPC</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">                &amp;kp TAB    &amp;kp Q  &amp;kp W     &amp;kp E    &amp;kp R    &amp;kp T                     &amp;kp Y  &amp;kp U    &amp;kp I     &amp;kp O   &amp;kp P     &amp;kp BSLH</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">                &amp;kp LSHFT  &amp;kp A  &amp;kp S     &amp;kp D    &amp;kp F    &amp;kp G                     &amp;kp H  &amp;kp J    &amp;kp K     &amp;kp L   &amp;kp SEMI  &amp;kp SQT</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">                &amp;kp LCTRL  &amp;kp Z  &amp;kp X     &amp;kp C    &amp;kp V    &amp;kp B                     &amp;kp N  &amp;kp M    &amp;kp COMMA &amp;kp DOT &amp;kp FSLH  &amp;kp RET</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">                           &amp;mo 3  &amp;kp LCTRL &amp;kp LALT &amp;kp LGUI &amp;mo 1 &amp;kp SPACE &amp;kp SPACE &amp;mo 2  &amp;kp LEFT &amp;kp DOWN  &amp;kp UP  &amp;kp RIGHT </td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">            &gt;;</td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">        };</td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">        lower {</td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">            // ----------------------------------------------------------------------------------------------------------</td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">            // |  ESC  |  F2  |  F3  |  F4  |  F5  |  F6  |-------|-------|   F7  |  F8   |  F9  | F10  |  F11  |  F12  |</td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">            // |   ~   |  !   |  @   |  #   |  $   |  %   |-------|-------|   ^   |   &amp;   |  *   |  (   |   )   |  DEL  |</td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">            // |       |  F1  |  F2  |  F3  |  F4  |  F5  |-------|-------|   F6  |   _   |  +   |  {   |   }   |   |   |</td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">            // |       |  F7  |  F8  |  F9  |  F10 |  F11 |-------|-------|   F12 | LS(#) |LS(|) |      |       |       |</td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">            // |-------|      |      |      |      |      |       |       |       | NEXT  | Vol- | Vol+ | PLAY  |-------|</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">            bindings = &lt;</td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">                &amp;kp ESC   &amp;kp F2   &amp;kp F3   &amp;kp F4   &amp;kp F5    &amp;kp F6                  &amp;kp F7    &amp;kp F8              &amp;kp F9              &amp;kp F10      &amp;kp F11          &amp;kp F12</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">                &amp;kp TILDE &amp;kp EXCL &amp;kp AT   &amp;kp HASH &amp;kp DLLR  &amp;kp PRCNT               &amp;kp CARET &amp;kp AMPS            &amp;kp ASTRK           &amp;kp LPAR     &amp;kp RPAR         &amp;kp DEL</td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">                &amp;trans    &amp;kp F1   &amp;kp F2   &amp;kp F3   &amp;kp F4    &amp;kp F5                  &amp;kp F6    &amp;kp UNDER           &amp;kp PLUS            &amp;kp LBRC     &amp;kp RBRC         &amp;kp PIPE</td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">                &amp;trans    &amp;kp F7   &amp;kp F8   &amp;kp F9   &amp;kp F10   &amp;kp F11                 &amp;kp F12   &amp;kp LS(NON_US_HASH) &amp;kp LS(NON_US_BSLH) &amp;trans    &amp;trans        &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">                          &amp;trans   &amp;trans   &amp;trans   &amp;trans    &amp;trans    &amp;trans &amp;trans &amp;mo 3     &amp;kp C_NEXT          &amp;kp C_VOL_DN        &amp;kp C_VOL_UP &amp;kp C_PLAY_PAUSE </td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">            &gt;;</td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">        };</td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">        raise {</td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">            // ----------------------------------------------------------------------------------------------------------</td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">            // |  ESC  |  F2  |  F3  |  F4  |  F5  |  F6  |-------|-------|  F7   |  F8   |  F9  | F10  |  F11  |  F12  |</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">            // |   ~   |  1   |  2   |  3   |  4   |  5   |-------|-------|  6    |   7   |  8   |  9   |   0   |  DEL  |</td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">            // |  DEL  |  F1  |  F2  |  F3  |  F4  |  F5  |-------|-------|  F6   |   -   |  =   |  [   |   ]   |   \   |</td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">            // |       |  F7  |  F8  |  F9  |  F10 |  F11 |-------|-------|  F12  |   #   |  |   |      |       |       |</td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">            // |-------|      |      |      |      |      |       |       |       |       |      |      |       |-------|</td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">            bindings = &lt;</td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">                &amp;kp ESC   &amp;kp F2   &amp;kp F3   &amp;kp F4   &amp;kp F5    &amp;kp F6                &amp;kp F7    &amp;kp F8          &amp;kp F9          &amp;kp F10      &amp;kp F11          &amp;kp F12</td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">                &amp;kp TILDE &amp;kp N1   &amp;kp N2   &amp;kp N3   &amp;kp N4    &amp;kp N5                &amp;kp N6    &amp;kp N7          &amp;kp N8          &amp;kp N9       &amp;kp N0           &amp;kp DEL</td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">                &amp;kp DEL   &amp;kp F1   &amp;kp F2   &amp;kp F3   &amp;kp F4    &amp;kp F5                &amp;kp F6    &amp;kp MINUS       &amp;kp EQUAL       &amp;kp LBKT     &amp;kp RBKT         &amp;kp BSLH</td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">                &amp;trans    &amp;kp F7   &amp;kp F8   &amp;kp F9   &amp;kp F10   &amp;kp F11               &amp;kp F12   &amp;kp NON_US_HASH &amp;kp NON_US_BSLH &amp;trans       &amp;trans           &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">                          &amp;trans   &amp;trans   &amp;trans   &amp;trans    &amp;mo 3   &amp;trans &amp;trans &amp;trans    &amp;trans          &amp;trans          &amp;trans       &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line">            &gt;;</td>
-        </tr>
-        <tr>
-          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line">        };</td>
-        </tr>
-        <tr>
-          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line">        adjust {</td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line">            // ----------------------------------------------------------------------------------------------------------</td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">            // |tog(4)|  F2  |  F3  |  F4  |  F5  |  F6  |------|------|  F7  |  F8  |  F9  |  F10 |  F11 |    F12    |</td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line">            // |      |  NA  |  NA  |  NA  |  NA  |  NA  |------|------|  NA  |  NA  |  NA  |  NA  |  NA  |LALT(PRTSN)|</td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line">            // |      |  NA  |  NA  |  NA  |  NA  |  NA  |------|------|  NA  |  NA  |  NA  |  NA  |  NA  |   PRTSN   |</td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">            // |      |  NA  |  NA  |  NA  |  NA  |  NA  |------|------|  NA  |  NA  |  NA  |  NA  |  NA  |LCTRL(DEL) |</td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">            // |------|      |      |      |      |      |BOOTLD|BOOTLD|      |      |      |      |      |-----------|</td>
-        </tr>
-        <tr>
-          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line">            bindings = &lt;</td>
-        </tr>
-        <tr>
-          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">                &amp;tog 4 &amp;kp F2 &amp;kp F3 &amp;kp F4 &amp;kp F5 &amp;kp F6                         &amp;kp F7 &amp;kp F8 &amp;kp F9 &amp;kp F10 &amp;kp F11 &amp;kp F12</td>
-        </tr>
-        <tr>
-          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line">                &amp;trans &amp;none  &amp;none  &amp;none  &amp;none  &amp;none                          &amp;none  &amp;none  &amp;none  &amp;none   &amp;none   &amp;kp LA(PSCRN)</td>
-        </tr>
-        <tr>
-          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line">                &amp;trans &amp;none  &amp;none  &amp;none  &amp;none  &amp;none                          &amp;none  &amp;none  &amp;none  &amp;none   &amp;none   &amp;kp PSCRN</td>
-        </tr>
-        <tr>
-          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line">                &amp;trans &amp;none  &amp;none  &amp;none  &amp;none  &amp;none                          &amp;none  &amp;none  &amp;none  &amp;none   &amp;none   &amp;kp LC(DEL)</td>
-        </tr>
-        <tr>
-          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line">                       &amp;trans &amp;trans &amp;trans &amp;trans &amp;trans &amp;bootloader &amp;bootloader &amp;trans &amp;trans &amp;trans &amp;trans  &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line">            &gt;;</td>
-        </tr>
-        <tr>
-          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line">        };</td>
-        </tr>
-        <tr>
-          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line">        flock {</td>
-        </tr>
-        <tr>
-          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line">            // ----------------------------------------------------------------------------------------------------------</td>
-        </tr>
-        <tr>
-          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line">            // |tog(4) |  F2    |   F3   |   F4   |   F5   |   F6   |-------|-------|  F7  |  F8  |  F9  | F10 | F11 |      |</td>
-        </tr>
-        <tr>
-          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line">            // |out tog|BT_SEL 0|BT_SEL 1|BT_SEL 2|BT_SEL 3|BT_SEL 4|-------|-------|BT_PRV|BT_NXT|BT_CLR|     |     |      |</td>
-        </tr>
-        <tr>
-          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
-          <td id="LC87" class="blob-code blob-code-inner js-file-line">            // |       |        |        |        |        |        |-------|-------|      |      |      |     |     |      |</td>
-        </tr>
-        <tr>
-          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
-          <td id="LC88" class="blob-code blob-code-inner js-file-line">            // |       |        |        |        |        |        |-------|-------|      |      |      |     |     |      |</td>
-        </tr>
-        <tr>
-          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
-          <td id="LC89" class="blob-code blob-code-inner js-file-line">            // |-------|        |        |        |        |        |       |       |      |      |      |     |     |------|</td>
-        </tr>
-        <tr>
-          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
-          <td id="LC90" class="blob-code blob-code-inner js-file-line">            bindings = &lt;</td>
-        </tr>
-        <tr>
-          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
-          <td id="LC91" class="blob-code blob-code-inner js-file-line">                &amp;tog 4       &amp;kp F2       &amp;kp F3       &amp;kp F4       &amp;kp F5       &amp;kp F6                     &amp;kp F7     &amp;kp F8     &amp;kp F9     &amp;kp F10 &amp;kp F11 &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
-          <td id="LC92" class="blob-code blob-code-inner js-file-line">                &amp;out OUT_TOG &amp;bt BT_SEL 0 &amp;bt BT_SEL 1 &amp;bt BT_SEL 2 &amp;bt BT_SEL 3 &amp;bt BT_SEL 4               &amp;bt BT_PRV &amp;bt BT_NXT &amp;bt BT_CLR &amp;trans  &amp;trans  &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
-          <td id="LC93" class="blob-code blob-code-inner js-file-line">                &amp;trans       &amp;trans       &amp;trans       &amp;trans       &amp;trans       &amp;trans                     &amp;trans     &amp;trans     &amp;trans     &amp;trans  &amp;trans  &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
-          <td id="LC94" class="blob-code blob-code-inner js-file-line">                &amp;trans       &amp;trans       &amp;trans       &amp;trans       &amp;trans       &amp;trans                     &amp;trans     &amp;trans     &amp;trans     &amp;trans  &amp;trans  &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
-          <td id="LC95" class="blob-code blob-code-inner js-file-line">                             &amp;trans       &amp;trans       &amp;trans       &amp;trans       &amp;trans       &amp;trans &amp;trans &amp;trans     &amp;trans     &amp;trans     &amp;trans  &amp;trans</td>
-        </tr>
-        <tr>
-          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
-          <td id="LC96" class="blob-code blob-code-inner js-file-line">            &gt;;</td>
-        </tr>
-        <tr>
-          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
-          <td id="LC97" class="blob-code blob-code-inner js-file-line">        };</td>
-        </tr>
-        <tr>
-          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
-          <td id="LC98" class="blob-code blob-code-inner js-file-line">    };</td>
-        </tr>
-        <tr>
-          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
-          <td id="LC99" class="blob-code blob-code-inner js-file-line">};</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">endif</td>
         </tr>
   </table>
 </div>
@@ -3240,7 +2810,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/zmkfirmware/zmk/blame/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/naked60.keymap">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/zmkfirmware/zmk/blame/c23443a086b62833ba0b88dd3a271993d3bc9cea/app/boards/shields/naked60/Kconfig.defconfig">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/zmkfirmware/zmk/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
